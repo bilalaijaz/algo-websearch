@@ -1,0 +1,7 @@
+{
+    "name": "bilal/algo-websearch",
+    "description": "This package is a web crawler.",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
